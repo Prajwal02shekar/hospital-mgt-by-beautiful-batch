@@ -1,0 +1,24 @@
+{
+  "doctors": [
+    {
+      "id": "1",
+      "doctorName": "Dr .Prajwal",
+      "specialization": "Cardio",
+      "imageUrl": "https://avatars.githubusercontent.com/u/160094074?v=4"
+    },
+    {
+      "id": "b348",
+      "doctorName": "Pavan",
+      "specialization": "Heart ",
+      "imageUrl": "khugfd"
+    },
+    {
+      "id": "03d9",
+      "doctorName": "Jeevith",
+      "specialization": "Cardio",
+      "imageUrl": "ljkgfxz"
+    }
+  ],
+  "appointments":[],
+  "register":[]
+}
