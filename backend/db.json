@@ -1,24 +1,24 @@
 {
   "doctors": [
     {
-      "id": "1",
-      "doctorName": "Dr .Prajwal",
+      "id": "2979",
+      "doctorName": "Prajwal",
       "specialization": "Cardio",
       "imageUrl": "https://avatars.githubusercontent.com/u/160094074?v=4"
     },
     {
-      "id": "b348",
-      "doctorName": "Pavan",
-      "specialization": "Heart ",
-      "imageUrl": "khugfd"
+      "id": "3f40",
+      "doctorName": "Vinay N",
+      "specialization": "Heart",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Darshan_Thoogudeep_kannada_film_actor.jpg/250px-Darshan_Thoogudeep_kannada_film_actor.jpg"
     },
     {
-      "id": "03d9",
-      "doctorName": "Jeevith",
-      "specialization": "Cardio",
-      "imageUrl": "ljkgfxz"
+      "id": "d4af",
+      "doctorName": "Sujan",
+      "specialization": "Eye",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_Neymar_850_1705.jpg/960px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_Neymar_850_1705.jpg"
     }
   ],
-  "appointments":[],
-  "register":[]
+  "appointments": [],
+  "register": []
 }

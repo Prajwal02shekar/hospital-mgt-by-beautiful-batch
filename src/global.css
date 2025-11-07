@@ -90,3 +90,169 @@
 }
 
 /* Home page Ends here */
+
+
+/* Doctors Page */
+.doctors-container {
+    text-align: center;
+    padding: 20px;
+}
+
+.doctors-form {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 30px;
+    flex-wrap: wrap;
+}
+
+.doctors-form input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+}
+
+.doctors-form button {
+    background-color: #0078d4;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    cursor: pointer;
+    border-radius: 6px;
+}
+
+.doctors-form button:hover {
+    background-color: #1c92d2;
+}
+
+.doctors-list {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+.doctors-card {
+    width: 280px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 15px;
+    background: #fff;
+}
+
+.doctors-card img {
+    width: 100%;
+    height: 200px;
+    border-radius: 10px;
+}
+
+.doctor-action {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.doctor-action button {
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    cursor: pointer;
+    border-radius: 6px;
+}
+
+.editBtn {
+    background-color: #0078d4;
+}
+
+.editBtn:hover {
+    background-color: #1c92d2;
+}
+
+.deleteBtn {
+    background-color: #ff000097;
+}
+
+.deleteBtn:hover {
+    background-color: #ff0000d6;
+}
+
+
+/* Appointment Form */
+
+.appointment-page {
+    text-align: center;
+    padding: 20px;
+}
+
+.appointments-form {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    flex-wrap: wrap;
+    margin-bottom: 25px;
+}
+
+.appointments-form input,
+.appointments-form select {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+}
+
+.appointments-form button {
+    background: #0078d4;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.appointment-table {
+    width: 90%;
+    margin: auto;
+    border-collapse: collapse;
+}
+
+.appointment-table th,
+.appointment-table td {
+    border: 1px solid #ccc;
+    padding: 8px;
+}
+
+.appointment-table th {
+    background-color: #0078d4;
+    color: white;
+}
+
+doctor-action {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.doctor-action button {
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    cursor: pointer;
+    border-radius: 6px;
+}
+
+.editBtn {
+    background-color: #0078d4;
+}
+
+.editBtn:hover {
+    background-color: #1c92d2;
+}
+
+.deleteBtn {
+    background-color: #ff000097;
+}
+
+.deleteBtn:hover {
+    background-color: #ff0000d6;
+}

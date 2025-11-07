@@ -15,6 +15,7 @@ const HomePage = () => {
                 <aside className="imageContainer">
                     <img src="https://png.pngtree.com/png-clipart/20240702/original/pngtree-friendly-cartoon-doctor-png-image_15467257.png" alt="" />
                 </aside>
+                
             </article>
         </section>
     )
